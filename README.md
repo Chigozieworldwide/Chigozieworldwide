@@ -7,7 +7,7 @@
 
 <h1 align="center"> |OFFICIAL PAGE|</h1>
 
-https://readme-typing-svg.herokuapp.com/demo/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/
 
 
 ![20200808_16075](https://github.com/Chigozieworldwide/TROY/blob/main/20220601_181033.png)

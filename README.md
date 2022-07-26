@@ -2,7 +2,7 @@
 
        🔐 WELCOME 🔐 
 
-# 🏆 INFO 🏆
+# 🪐 VIEW 🪐
 >
 * **Visitor Github @Chigozieworldwide**
 ![Chigozieworldwide](https://komarev.com/ghpvc/?username=Chigozieworldwide&color=blue)

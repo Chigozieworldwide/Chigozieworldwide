@@ -9,8 +9,8 @@
 * **Visitor Github  @CythonFamily**
 ![CythonFamily](https://komarev.com/ghpvc/?username=CythonFamily&color=green)
 >
-<a href="https://github.com/Chigozieworldwide/followers">
-## <img title="Followers" src="https://img.shields.io/github/followers/Chigozieworldwide?label=Followers&color=blue&style=flat-square"></a>
+## <a href="https://github.com/Chigozieworldwide/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Chigozieworldwide?label=Followers&color=blue&style=flat-square"></a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+CHIGOZIEWORLDWIDE)](https://git.io/typing-svg)

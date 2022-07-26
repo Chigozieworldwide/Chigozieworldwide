@@ -1,7 +1,3 @@
-
-
-       🔐 WELCOME 🔐 
-
 # 🪐 VIEW 🪐
 >
 * **Visitor Github @Chigozieworldwide**

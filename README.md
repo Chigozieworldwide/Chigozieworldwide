@@ -2,6 +2,13 @@
 
        🔐 WELCOME 🔐 
 
+#### ★ Github Info ★
+>
+* **Visitor Github @DUMAI-991**
+![Chigozieworldwide](https://komarev.com/ghpvc/?username=Chigozieworldwide&color=blue)
+* **Visitor Github @DUMAI-200**
+![CythonFamily](https://komarev.com/ghpvc/?username=CythonFamily&color=red)
+>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+CHIGOZIEWORLDWIDE)](https://git.io/typing-svg)
 

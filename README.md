@@ -31,4 +31,4 @@ Here you can easily customize your Typing SVG with a live preview.
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=green&labelColor=black)](https://github.com/Chigozieworldwide) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=green&labelColor=black)](https://www.facebook.com/Onuegbe.Chigozie) <br>
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=green&labelColor=black)](https://www.instagram.com/Chigozieworldwide) <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Instagram&logoColor=green&labelColor=black)](https://t.me/Cythonfamily) <br>
